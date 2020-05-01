@@ -1,2 +1,2 @@
 
-https://dhirajko.github.io/portfolio/
+https://dhirajko-portfolio.netlify.app
